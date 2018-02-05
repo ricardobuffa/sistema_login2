@@ -1,2 +1,2 @@
-# sistema_login2
-Sistema Login 2 do Curso de Python POO
+# Sistema Login - Curso POO
+Sistema Login para o curso POO com Python.
