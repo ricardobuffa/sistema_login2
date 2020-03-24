@@ -7,7 +7,7 @@ Babel==2.5.3
 backports-abc==0.5
 bcrypt==3.1.4
 binaryornot==0.4.4
-bleach==2.1.2
+bleach==3.1.2
 bottle==0.12.13
 bottle-session==0.8
 bottle-sqlalchemy==0.4.3
