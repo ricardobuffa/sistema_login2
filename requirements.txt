@@ -11,7 +11,7 @@ bleach==2.1.2
 bottle==0.12.13
 bottle-session==0.8
 bottle-sqlalchemy==0.4.3
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.11.4
 cookiecutter==1.6.0
 coverage==4.4.2
